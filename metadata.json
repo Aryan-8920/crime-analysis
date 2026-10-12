@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Criminal Network Analysis System",
+  "description": "From Fragmented Evidence to Connected Investigation Intelligence. Professional technical prototype for investigation evidence analysis, multi-hop network exploration, financial trails, and communication intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
